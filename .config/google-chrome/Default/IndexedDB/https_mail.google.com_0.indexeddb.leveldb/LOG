@@ -1,0 +1,6 @@
+2022/01/28-08:54:31.154 dbca Reusing MANIFEST /home/decimal/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/28-08:54:31.154 dbca Recovering log #96
+2022/01/28-08:54:31.156 dbca Reusing old log /home/decimal/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000096.log 
+2022/01/28-15:00:44.590 feb3 Level-0 table #102: started
+2022/01/28-15:00:44.604 feb3 Level-0 table #102: 2038767 bytes OK
+2022/01/28-15:00:44.606 feb3 Delete type=0 #96

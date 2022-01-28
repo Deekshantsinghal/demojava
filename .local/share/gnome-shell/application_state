@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" score="76" last-seen="1643089738"/>
+    <application id="org.gnome.FileRoller.desktop" score="7" last-seen="1643363441"/>
+    <application id="google-chrome.desktop" score="23818.5" last-seen="1643364941"/>
+    <application id="anydesk.desktop" score="0.5" last-seen="1642771141"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1643363450"/>
+    <application id="update-manager.desktop" score="0.5" last-seen="1643113519"/>
+    <application id="org.gnome.eog.desktop" score="169" last-seen="1643352421"/>
+    <application id="org.gnome.Nautilus.desktop" score="125" last-seen="1643364067"/>
+    <application id="org.gnome.DejaDup.desktop" score="0" last-seen="1643297164"/>
+    <application id="snap-store_ubuntu-software.desktop" score="10.5" last-seen="1643276323"/>
+    <application id="org.gnome.Terminal.desktop" score="1104.5" last-seen="1643363324"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="239" last-seen="1642775130"/>
+    <application id="notepad-plus-plus_notepad-plus-plus.desktop" score="118.5" last-seen="1643310771"/>
+  </context>
+</application-state>

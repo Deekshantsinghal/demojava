@@ -1,0 +1,25 @@
+2022/01/21-17:55:28.715 9852 Reusing MANIFEST /home/decimal/.config/google-chrome/Default/IndexedDB/https_www.cricbuzz.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/21-17:55:28.716 9852 Recovering log #22
+2022/01/21-17:55:28.716 9852 Reusing old log /home/decimal/.config/google-chrome/Default/IndexedDB/https_www.cricbuzz.com_0.indexeddb.leveldb/000022.log 
+2022/01/21-17:55:28.716 9852 Delete type=2 #21
+2022/01/21-17:55:28.721 9957 Level-0 table #27: started
+2022/01/21-17:55:28.722 9957 Level-0 table #27: 1708 bytes OK
+2022/01/21-17:55:28.726 9957 Delete type=0 #22
+2022/01/21-17:55:28.726 9957 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 350 : 1
+2022/01/21-17:55:28.726 9957 Compacting 1@0 + 1@1 files
+2022/01/21-17:55:28.728 9957 Generated table #28@0: 30 keys, 1446 bytes
+2022/01/21-17:55:28.728 9957 Compacted 1@0 + 1@1 files => 1446 bytes
+2022/01/21-17:55:28.729 9957 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/21-17:55:28.729 9957 Delete type=2 #27
+2022/01/21-17:55:28.730 9957 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 350 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/21-17:55:31.520 9956 Level-0 table #30: started
+2022/01/21-17:55:31.522 9956 Level-0 table #30: 2600 bytes OK
+2022/01/21-17:55:31.525 9956 Delete type=2 #24
+2022/01/21-17:55:31.525 9956 Delete type=0 #26
+2022/01/21-17:55:31.525 9956 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 393 : 1
+2022/01/21-17:55:31.525 9956 Compacting 1@0 + 1@1 files
+2022/01/21-17:55:31.527 9956 Generated table #31@0: 30 keys, 1514 bytes
+2022/01/21-17:55:31.527 9956 Compacted 1@0 + 1@1 files => 1514 bytes
+2022/01/21-17:55:31.530 9956 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/21-17:55:31.530 9956 Delete type=2 #30
+2022/01/21-17:55:31.531 9956 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 393 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2022/01/28-15:03:22.455 101e0 Reusing MANIFEST /home/decimal/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/28-15:03:22.455 101e0 Recovering log #122
+2022/01/28-15:03:22.456 101e0 Reusing old log /home/decimal/.config/google-chrome/Default/Sync Data/LevelDB/000122.log 
+2022/01/28-15:16:27.509 1020b Level-0 table #127: started
+2022/01/28-15:16:27.515 1020b Level-0 table #127: 95642 bytes OK
+2022/01/28-15:16:27.517 1020b Delete type=0 #122

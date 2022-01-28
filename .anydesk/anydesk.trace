@@ -1,0 +1,235 @@
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - * AnyDesk Linux Startup *
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - * Build 20210413130604
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - * Prefix ad
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - 
+   info 2022-01-18 10:20:55.146         ad   main   4771   4771                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-18 10:20:55.147         ad   main   4771   4771                                  main - Found GLib Version: 2.64.
+   info 2022-01-18 10:20:55.162         ad   main   4771   4771                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-18 10:20:55.162         ad   main   4771   4771                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-18 10:20:55.164       tray   main   4771   4771                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-18 10:20:55.164       tray   main   4771   4771                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-18 10:20:55.182       tray   main   4771   4771                       base.signal.hub - 1 threads.
+   info 2022-01-18 10:20:55.182       tray   main   4771   4771                    app.tunnel_ft_comp - Ready.
+   info 2022-01-18 10:20:55.213       tray   ctrl   4771   4778                      unix_app.control - Control startup.
+  error 2022-01-18 10:20:55.213       tray   ctrl   4771   4778              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-18 10:20:55.231       tray   wrk0   4771   4779              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-18 10:20:55.231       tray   wrk0   4771   4779                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-18 10:20:55.231       tray   wrk0   4771   4779        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-18 10:20:55.231       tray   wrk0   4771   4779                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - * AnyDesk Linux Startup *
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - * Build 20210413130604
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - * Prefix ad
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - 
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-19 04:47:45.774         ad   main   1771   1771                                  main - Found GLib Version: 2.64.
+   info 2022-01-19 04:47:45.899         ad   main   1771   1771                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-19 04:47:45.899         ad   main   1771   1771                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-19 04:47:45.905       tray   main   1771   1771                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-19 04:47:45.905       tray   main   1771   1771                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-19 04:47:45.950       tray   main   1771   1771                       base.signal.hub - 1 threads.
+   info 2022-01-19 04:47:45.950       tray   main   1771   1771                    app.tunnel_ft_comp - Ready.
+   info 2022-01-19 04:47:45.979       tray   ctrl   1771   1840                      unix_app.control - Control startup.
+  error 2022-01-19 04:47:45.984       tray   ctrl   1771   1840              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-19 04:47:45.994       tray   wrk0   1771   1841              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-19 04:47:45.994       tray   wrk0   1771   1841                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-19 04:47:45.994       tray   wrk0   1771   1841        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-19 04:47:45.997       tray   wrk0   1771   1841                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+   info 2022-01-19 05:25:12.389         ad   main   1797   1797                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - * AnyDesk Linux Startup *
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - * Build 20210413130604
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - * Prefix ad
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - 
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-19 05:25:12.390         ad   main   1797   1797                                  main - Found GLib Version: 2.64.
+   info 2022-01-19 05:25:12.446         ad   main   1797   1797                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-19 05:25:12.446         ad   main   1797   1797                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-19 05:25:12.470       tray   main   1797   1797                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-19 05:25:12.470       tray   main   1797   1797                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-19 05:25:12.542       tray   main   1797   1797                       base.signal.hub - 1 threads.
+   info 2022-01-19 05:25:12.542       tray   main   1797   1797                    app.tunnel_ft_comp - Ready.
+   info 2022-01-19 05:25:12.658       tray   ctrl   1797   1878                      unix_app.control - Control startup.
+  error 2022-01-19 05:25:12.660       tray   ctrl   1797   1878              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-19 05:26:25.714       tray   wrk0   1797   1880              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-19 05:26:25.714       tray   wrk0   1797   1880                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-19 05:26:25.714       tray   wrk0   1797   1880        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-19 05:26:25.717       tray   wrk0   1797   1880                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - * AnyDesk Linux Startup *
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - * Build 20210413130604
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - * Prefix ad
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - 
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-21 13:18:51.324         ad   main  40714  40714                                  main - Found GLib Version: 2.64.
+   info 2022-01-21 13:18:51.332         ad   main  40714  40714                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-21 13:18:51.332         ad   main  40714  40714                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-21 13:18:51.332         ad   main  40714  40714                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-21 13:18:51.332         ad   main  40714  40714                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-21 13:18:51.332         ad   main  40714  40714                                  main - Starting frontend process (40714).
+   info 2022-01-21 13:18:51.333   frontend   main  40714  40714                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-21 13:18:51.333   frontend   main  40714  40714                           gui.gui_app - Using std-resolution bitmaps.
+warning 2022-01-21 13:18:51.344   frontend   main  40714  40714        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-21 13:18:51.344   frontend   main  40714  40714                         app.user_info - Could not update user image (File not found: /home/decimal/.face.icon). Defaulting.
+   info 2022-01-21 13:18:51.346   frontend   main  40714  40714                       base.signal.hub - 8 threads.
+   info 2022-01-21 13:18:51.346   frontend   timr  40714  40720          base.signal.local.timer_impl - Initialized master timer.
+   info 2022-01-21 13:18:51.437   frontend   ctrl  40714  40721                     unix_app.frontend - Frontend startup.
+   info 2022-01-21 13:18:51.438   frontend   ctrl  40714  40721                     unix_app.frontend - Logging the frontend in.
+warning 2022-01-21 13:18:51.438   frontend   ctrl  40714  40721        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-21 13:18:51.439   frontend   ctrl  40714  40721                         app.user_info - Could not update user image (File not found: /home/decimal/.face.icon). Defaulting.
+warning 2022-01-21 13:18:51.525   frontend   wrk1  40714  40723        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-21 13:18:51.525   frontend   wrk1  40714  40723                         app.user_info - Could not update user image (File not found: /home/decimal/.face.icon). Defaulting.
+   info 2022-01-21 13:18:51.542   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:18:51.542   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:18:51.544   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:18:51.577   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:18:51.578   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:18:51.636   frontend    x11  40714  40719                     base.monitor_info - Monitor 0: x/y : 0/0
+   info 2022-01-21 13:18:51.636   frontend    x11  40714  40719                     base.monitor_info - Monitor 0: w/h : 2560/1440
+   info 2022-01-21 13:18:51.636   frontend    x11  40714  40719                     base.monitor_info - Monitor 0 output=66
+   info 2022-01-21 13:19:01.500   frontend   ctrl  40714  40721                     unix_app.frontend - Frontend shutdown.
+   info 2022-01-21 13:19:01.502   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:19:01.502   frontend   main  40714  40714                     unix_app.frontend - Monitoring online states.
+   info 2022-01-21 13:19:01.519   frontend   ctrl  40714  40721                       base.signal.hub - Control quit.
+   info 2022-01-21 13:19:01.520   frontend   timr  40714  40720          base.signal.local.timer_impl - Timer wants to quit.
+   info 2022-01-21 13:19:01.521   frontend   main  40714  40714              base.prot.job_dispatcher - 0 undelivered packets.
+   info 2022-01-21 13:19:01.522   frontend   main  40714  40714                                  main - Exiting normally.
+  error 2022-01-23 19:20:43.211       tray   wrk0   1797   1880                      unix_app.control - Service connection lost.
+   info 2022-01-23 19:20:43.211       tray   ctrl   1797   1878                    app.tunnel_ft_comp - Stopping file component.
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                                  main - * AnyDesk Linux Startup *
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                                  main - * Build 20210413130604
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                                  main - * Prefix ad
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-23 19:21:29.497         ad   main   1764   1764                                  main - 
+   info 2022-01-23 19:21:29.498         ad   main   1764   1764                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-23 19:21:29.498         ad   main   1764   1764                                  main - Found GLib Version: 2.64.
+   info 2022-01-23 19:21:29.577         ad   main   1764   1764                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-23 19:21:29.577         ad   main   1764   1764                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-23 19:21:29.588       tray   main   1764   1764                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-23 19:21:29.588       tray   main   1764   1764                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-23 19:21:29.626       tray   main   1764   1764                       base.signal.hub - 1 threads.
+   info 2022-01-23 19:21:29.626       tray   main   1764   1764                    app.tunnel_ft_comp - Ready.
+   info 2022-01-23 19:21:29.728       tray   ctrl   1764   1833                      unix_app.control - Control startup.
+  error 2022-01-23 19:21:29.747       tray   ctrl   1764   1833              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-23 19:21:29.756       tray   wrk0   1764   1834              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-23 19:21:29.756       tray   wrk0   1764   1834                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-23 19:21:29.756       tray   wrk0   1764   1834        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-23 19:21:29.768       tray   wrk0   1764   1834                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+  error 2022-01-23 19:24:10.103       tray   wrk0   1764   1834                      unix_app.control - Service connection lost.
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - * AnyDesk Linux Startup *
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - * Build 20210413130604
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - * Prefix ad
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - 
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-24 03:33:58.716         ad   main   1722   1722                                  main - Found GLib Version: 2.64.
+   info 2022-01-24 03:33:58.812         ad   main   1722   1722                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-24 03:33:58.812         ad   main   1722   1722                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-24 03:33:58.821       tray   main   1722   1722                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-24 03:33:58.821       tray   main   1722   1722                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-24 03:33:58.886       tray   main   1722   1722                       base.signal.hub - 1 threads.
+   info 2022-01-24 03:33:58.886       tray   main   1722   1722                    app.tunnel_ft_comp - Ready.
+   info 2022-01-24 03:33:58.988       tray   ctrl   1722   1828                      unix_app.control - Control startup.
+  error 2022-01-24 03:33:58.988       tray   ctrl   1722   1828              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-24 03:33:59.039       tray   wrk0   1722   1829              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-24 03:33:59.039       tray   wrk0   1722   1829                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-24 03:33:59.039       tray   wrk0   1722   1829        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-24 03:33:59.044       tray   wrk0   1722   1829                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+   info 2022-01-24 12:15:41.447         ad   main   1785   1785                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - * AnyDesk Linux Startup *
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - * Build 20210413130604
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - * Prefix ad
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - 
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-24 12:15:41.450         ad   main   1785   1785                                  main - Found GLib Version: 2.64.
+   info 2022-01-24 12:15:41.577         ad   main   1785   1785                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-24 12:15:41.577         ad   main   1785   1785                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-24 12:15:41.588       tray   main   1785   1785                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-24 12:15:41.588       tray   main   1785   1785                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-24 12:15:41.627       tray   main   1785   1785                       base.signal.hub - 1 threads.
+   info 2022-01-24 12:15:41.627       tray   main   1785   1785                    app.tunnel_ft_comp - Ready.
+   info 2022-01-24 12:15:41.761       tray   ctrl   1785   1898                      unix_app.control - Control startup.
+  error 2022-01-24 12:15:41.779       tray   ctrl   1785   1898              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-24 12:15:41.792       tray   wrk0   1785   1899              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-24 12:15:41.792       tray   wrk0   1785   1899                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-24 12:15:41.792       tray   wrk0   1785   1899        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-24 12:15:41.793       tray   wrk0   1785   1899                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+   info 2022-01-25 12:21:40.134         ad   main   1809   1809                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - * AnyDesk Linux Startup *
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - * Build 20210413130604
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - * Prefix ad
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - 
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-25 12:21:40.139         ad   main   1809   1809                                  main - Found GLib Version: 2.64.
+   info 2022-01-25 12:21:40.226         ad   main   1809   1809                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-25 12:21:40.226         ad   main   1809   1809                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-25 12:21:40.228       tray   main   1809   1809                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-25 12:21:40.228       tray   main   1809   1809                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-25 12:21:40.271       tray   main   1809   1809                       base.signal.hub - 1 threads.
+   info 2022-01-25 12:21:40.271       tray   main   1809   1809                    app.tunnel_ft_comp - Ready.
+   info 2022-01-25 12:21:40.342       tray   ctrl   1809   1908                      unix_app.control - Control startup.
+  error 2022-01-25 12:21:40.344       tray   ctrl   1809   1908              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-25 12:21:40.371       tray   wrk0   1809   1909              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-25 12:21:40.371       tray   wrk0   1809   1909                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-25 12:21:40.371       tray   wrk0   1809   1909        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-25 12:21:40.374       tray   wrk0   1809   1909                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+  error 2022-01-25 13:23:02.462       tray   wrk0   1809   1909                      unix_app.control - Service connection lost.
+   info 2022-01-25 13:23:02.462       tray   ctrl   1809   1908                    app.tunnel_ft_comp - Stopping file component.
+   info 2022-01-25 13:23:31.911         ad   main   1825   1825                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2022-01-25 13:23:31.913         ad   main   1825   1825                                  main - * AnyDesk Linux Startup *
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - * Version 6.1.1 (linux_bsd_rpi_6.1.1 d5cd0aedcfaef0b868e31f90b10395e13dd0a3ef)
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - * Build 20210413130604
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - * Prefix ad
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - * Copyright (C) 2021 AnyDesk Software GmbH *
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - 
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - Distribution Info: Ubuntu 20.04.3 LTS
+   info 2022-01-25 13:23:31.914         ad   main   1825   1825                                  main - Found GLib Version: 2.64.
+   info 2022-01-25 13:23:31.986         ad   main   1825   1825                       app.common_path - user_data_dir = /home/decimal/.anydesk, logged_in_user_data_dir = /home/decimal/.anydesk, current_home = /home/decimal
+
+   info 2022-01-25 13:23:31.986         ad   main   1825   1825                       app.common_path - initialized user = /home/decimal/.anydesk, system = /etc/anydesk
+   info 2022-01-25 13:23:31.989       tray   main   1825   1825                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2022-01-25 13:23:31.989       tray   main   1825   1825                           gui.gui_app - Using std-resolution bitmaps.
+   info 2022-01-25 13:23:32.007       tray   main   1825   1825                       base.signal.hub - 1 threads.
+   info 2022-01-25 13:23:32.007       tray   main   1825   1825                    app.tunnel_ft_comp - Ready.
+   info 2022-01-25 13:23:32.161       tray   ctrl   1825   1929                      unix_app.control - Control startup.
+  error 2022-01-25 13:23:32.161       tray   ctrl   1825   1929              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2022-01-25 13:23:32.180       tray   wrk0   1825   1930              base.prot.packet_factory - Invalid packet received (type=26, 4 bytes).
+  error 2022-01-25 13:23:32.180       tray   wrk0   1825   1930                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2022-01-25 13:23:32.180       tray   wrk0   1825   1930        base.signal.global.shared_file - open (/var/lib/AccountsService/users/decimal) failed (13): Permission denied 
+warning 2022-01-25 13:23:32.187       tray   wrk0   1825   1930                      unix_app.control - Could not update account image (File not found: /home/decimal/.face.icon).
+   info 2022-01-25 19:24:26.747       tray   main   1825   1825                      unix_app.control - User changed. Showing tray.
+   info 2022-01-25 19:24:45.856       tray   main   1825   1825                      unix_app.control - User changed. Showing tray.

@@ -1,0 +1,15 @@
+2022/01/28-13:57:13.914 f89e Reusing MANIFEST /home/decimal/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/28-13:57:13.914 f89e Recovering log #7
+2022/01/28-13:57:13.916 f89e Reusing old log /home/decimal/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2022/01/28-13:58:17.427 f7cc Level-0 table #12: started
+2022/01/28-13:58:17.432 f7cc Level-0 table #12: 90581 bytes OK
+2022/01/28-13:58:17.434 f7cc Delete type=0 #7
+2022/01/28-13:58:17.435 f7cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/28-13:58:17.435 f7cc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 13086 : 1
+2022/01/28-13:58:17.435 f7cc Compacting 1@1 + 1@2 files
+2022/01/28-13:58:17.440 f7cc Generated table #13@1: 495 keys, 38718 bytes
+2022/01/28-13:58:17.440 f7cc Compacted 1@1 + 1@2 files => 38718 bytes
+2022/01/28-13:58:17.441 f7cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/28-13:58:17.442 f7cc Delete type=2 #9
+2022/01/28-13:58:17.442 f7cc Delete type=2 #12
+2022/01/28-13:58:17.442 f7cc Manual compaction at level-1 from '\x00\x06\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 13086 : 1 .. (end); will stop at (end)

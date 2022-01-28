@@ -1,0 +1,83 @@
+{
+   "checksum": "acd1b000a8a8565f1b17fd8d492cc29f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13287041467962027",
+            "guid": "c378a2b1-0945-4bca-93bd-720578dafec3",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13287041467964056",
+            "guid": "f2fab0a5-6591-4d16-a06f-85d52d6489b4",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13287041467964829",
+            "guid": "95e132b8-03c3-453c-9b3b-187ce4e7e81e",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13287130604650167",
+            "guid": "0ec732f0-d40d-49fc-aea8-552b05ed1752",
+            "id": "9",
+            "name": "Home",
+            "type": "url",
+            "url": "https://decimal.litmos.com.au/home/dashboard"
+         }, {
+            "date_added": "13287576043439640",
+            "guid": "ab210c57-4769-47a3-9e00-f50299f65666",
+            "id": "11",
+            "name": "decimal-batch-2",
+            "type": "url",
+            "url": "https://discord.com/channels/897842774005649448/935460732005408798"
+         }, {
+            "date_added": "13287577051731271",
+            "guid": "147bb04d-8a50-4fe8-92ad-d7c7892ea86e",
+            "id": "12",
+            "name": "nodeserver - Replit",
+            "type": "url",
+            "url": "https://replit.com/@DeekshantSingh1/nodeserver#index.js"
+         }, {
+            "date_added": "13287577910794761",
+            "guid": "99c8ff66-5ba1-4ffe-9185-d3bea23a7aab",
+            "id": "13",
+            "name": "ngrok - secure introspectable tunnels to localhost",
+            "type": "url",
+            "url": "https://ngrok.com/"
+         } ],
+         "date_added": "13287041443926877",
+         "date_modified": "13287577910794761",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13287041443926879",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13287041443926880",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkAjUriadYFACEAjUriadYFADIYChYIAhG/BgDyadYFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJAI1K4mnWBQAhAI1K4mnWBQAyGAoWCAIRvwYA8mnWBQAYACEAAAAAAAAAACAASOTdn4/pL3Dk3Z+P6S8SACABKhg2ZFdtdWtuaXlWRUpJZUgzNkJJcWx3PT0SwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4K2tFVGhlUnYrSHVwK0xUQURPNnVqanJENTR2bS8rUktLZmVtR0ZRZ1JHaEdPMlRDaWYrRzZOZGV1bUNLazF4cmkyZWpBdFRrdjZ2emc4Tm1ZWlFXOEk1K0loZz09GAAgACgAMJ2Ovt+CvfUCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS5QEICxLgAQocSGdGZE1YODlZYnA4VXl4SStxN2xYOFQwOTUwPRJmWjpBRHF0QVp6RnBPWjBKTU1Zcm1pbXM3SkkrVzlJNkhpUlpmREU0T1ZCUU4vVUNOdGhQN1B5eW1Xam5ZY0kxSi9UNVR4Z3ZKWGdmZXZ0d2JLMVRnUENoQ0c5N08xd2paZ0tlQT09GAAgAygDMAI4sK+mhOkvQPuX1YTpL0ocMGh4emU2b0NUYnVJeHk2UmNBQnVGSXpkNWNNPVofIh3uYXNPYzcyZHhpcWJFOHhLNS9TUjRRVFNHZkNzPWWN206WEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad2NYNnFSZkp4azJCdFJpR0Roeno0bGdWaTJJWDM5T3hoNFdmT2JTUENYZndYeDE1ZHNNUUhjVTlGazBZZ21hRzJMVUVBY3Q2bStkRFRhZnBTMGx2a3VZU3YxV1E9PRgAIAAoADCdjr7fgr31AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCAUS5gEKHFhrazF3TEZrZkQ2RWtKWGtMMTQvNUFJK0hRbz0SZlo6QURxdEFaekZwT1owSk1NWXJtaW1zN0pJK1c5SUN0UXQ2NE9Hb1BWQWlXMHdjc1Rvck82MzZQamU1SjBSMTdiN2pSaSs4WVRRZjdHS0Y5MFRCb2dGOU5oaFNMSzVmVS9JRUE9PRgAIAMoAzCGlv3Yi731Aji0rryF5y9AgevOhucvShxtaUZCc3Rod0tySlBZRGNoR1FxNmtIRTZ3ZzQ9Wh4iHEhjNXRkN2NmWHI0bkpyOUtHSUZGWGllb1ZyUT1li6CM0RLsAQgMEucBChxnVi94ZnFvZ3ZCK09MZ2lNOWVYMythWTdacWM9EmZaOkFEcXRBWnpGcE9aMEpNTVlybWltczdKSStXOUlUMFJDOTYxWUw2S1pPOUhPTUgvaXhJYXRYTld6SHFxeW1zcXpLOENEVlgvWDJucnd5Mm90QXNMdDQ2T1VGNmxMa3U0TnZ3PT0YACACKAIwip7Prc3M9QI41PTjhOkvQNj044TpL0ocYVFLaVh5MUFRNktOSEUxMURQT1BTSVNsM0JVPVofIh33V2hQVnlJTVNYSno5bGZNb0hPdFN1NWs3OGlvPWXZ4djSEusBCAYS5gEKHE9vQmx0bW1aM1dUZWhpV2Vmd2JCdVdncUtBOD0SZlo6QURxdEFaekZwT1owSk1NWXJtaW1zN0pJK1c5STBlVEtCVkJYWmR2WC94SVFWaXY2cjBGVWRHNDdBL2dmYXhQWU1YL0o5M3I5K2txOFhHYk1BbHJHSUlQQUtLSlkrRE5BZHc9PRgAIAUoBTD4ip2HsMr1Aji1rryF5y9A2seh4OgvShxDcGN3dEtBaU8wZmMxd1JtaVRpNVdYbXo0VWM9Wh4iHHQ2MEEwQzc5bFNhRkNBMjBFbUZOK1lWWlphRT1lOPk5MxKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhUb2N5bjNHMTdPcHg3WDFDVDJscWlmK3lVNzd4SVF2aFM3SmpiT2Z3Y1NTTGtNMnV1N3VQWjhYanYzRWQxOUxOOTdOR04YACAAKAAwnY6+34K99QI4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgHEucBChwxQVd5QS9xSW1CYU0vR1U4NE5MbWhkdlQ1b2M9EmZaOkFEcXRBWnpGcE9aMEpNTVlybWltczdKSStXOUlaZjBGN0ZmRG91bkQrSUZPU1hzSno1UXI0QVYrT1RRb0pYRk11SzAvbmNTWjdOSkhNNXFFNHNRZGRLelB2OE1ubUdEQnhBPT0YACACKAIwiPDT0ou99QI4ta68hecvQLWuvIXnL0ocWExhMUZMSGVEbkNhY0dQNGwwa0tJNXlUbVY0PVofIh26NDVpRENnMlRrSXJlbk1sSFI1TDR6anI1QnpnPWWk++iYEuwBCAkS5wEKHGZnbVF1SlpiaGx1em12WHJIQ011MHZoV0JsST0SZlo6QURxdEFaekZwT1owSk1NWXJtaW1zN0pJK1c5SWM4ZU1jSzJIWm9jcjhEM3I1anRIcmhjaFk5aXE2VFhqcDRpODl1aEtIb0JrQVdGYlk3WnFwOXM2Vmd1Zk5HSmYxNFF6c3c9PRgAIAYoBjCkrq74v831Ajjq+PKv5y9A+ay5k+kvShxlSG5BR2ViRUU4emU4MUZ6NjZtOUlnOVQ2bFE9Wh8iHd1yekR1SGtlWVplcmVWRTd1SUpCcE11bjd1RnM9ZUQ33PoS7AEIDRLnAQocWnlCdCtsVmY1OEFUaGhBcW5PRVk3VkFJekpvPRJmWjpBRHF0QVp6RnBPWjBKTU1Zcm1pbXM3SkkrVzlJek1PRnVVT2RFVWdrd0VLYnp1Sk92Sm9rMFpiOWJrdEFGUUw5YmFlU212WVJQSXdNYlB6MzZ5aUM4WmI0bDBaKzBNQ09nQT09GAAgAigCMO7onMfQzPUCOIusmIXpL0CPrJiF6S9KHEROMWVVTmR6TkhSQjEvN2IxdUljbDByQ0VQUT1aHyId+3hKdWJQM2lNWHBSa29jL2FacFUzbGVodm5aZz1l2FBgLSDi35+P6S8wAQ==",
+   "version": 1
+}

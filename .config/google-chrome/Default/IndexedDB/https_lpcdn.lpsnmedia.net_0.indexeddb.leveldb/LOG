@@ -1,0 +1,6 @@
+2022/01/25-13:11:53.797 49b0 Creating DB /home/decimal/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2022/01/25-13:11:53.802 49b0 Reusing MANIFEST /home/decimal/.config/google-chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/25-13:13:37.070 4cd1 Level-0 table #5: started
+2022/01/25-13:13:37.072 4cd1 Level-0 table #5: 1581 bytes OK
+2022/01/25-13:13:37.073 4cd1 Delete type=0 #3
+2022/01/25-13:13:37.073 4cd1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

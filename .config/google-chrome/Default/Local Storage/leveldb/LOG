@@ -1,0 +1,6 @@
+2022/01/28-15:03:22.482 3 Reusing MANIFEST /home/decimal/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/28-15:03:22.487 3 Recovering log #145
+2022/01/28-15:03:22.488 3 Reusing old log /home/decimal/.config/google-chrome/Default/Local Storage/leveldb/000145.log 
+2022/01/28-15:04:32.536 3 Level-0 table #149: started
+2022/01/28-15:04:32.539 3 Level-0 table #149: 22355 bytes OK
+2022/01/28-15:04:32.547 3 Delete type=0 #145

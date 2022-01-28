@@ -1,0 +1,14 @@
+2022/01/28-15:03:31.188 101e2 Reusing MANIFEST /home/decimal/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/28-15:03:31.188 101e2 Recovering log #39
+2022/01/28-15:03:31.253 101e2 Reusing old log /home/decimal/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2022/01/28-15:03:34.077 1020b Level-0 table #45: started
+2022/01/28-15:03:34.133 1020b Level-0 table #45: 1337756 bytes OK
+2022/01/28-15:03:34.136 1020b Delete type=0 #39
+2022/01/28-15:03:36.122 101e0 Compacting 1@1 + 2@2 files
+2022/01/28-15:03:36.238 101e0 Generated table #46@1: 42764 keys, 2254170 bytes
+2022/01/28-15:03:36.285 101e0 Generated table #47@1: 11283 keys, 466512 bytes
+2022/01/28-15:03:36.287 101e0 Compacted 1@1 + 2@2 files => 2720682 bytes
+2022/01/28-15:03:36.288 101e0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/01/28-15:03:36.289 101e0 Delete type=2 #42
+2022/01/28-15:03:36.289 101e0 Delete type=2 #45
+2022/01/28-15:03:36.289 101e0 Delete type=2 #41

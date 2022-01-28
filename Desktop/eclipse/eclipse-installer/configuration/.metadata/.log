@@ -1,0 +1,30 @@
+!SESSION 2022-01-28 15:20:53.503 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data @noDefault
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.058
+!MESSAGE Loading 'file:/home/decimal/.p2/org.eclipse.equinox.p2.core/cache/' failed. retry=1
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.065
+!MESSAGE Loading 'file:/home/decimal/.p2/org.eclipse.equinox.p2.core/cache/' failed. retry=2
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.070
+!MESSAGE Loading 'file:/home/decimal/.p2/org.eclipse.equinox.p2.core/cache/' failed. retry=1
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.071
+!MESSAGE Loading 'file:/home/decimal/.p2/org.eclipse.equinox.p2.core/cache/' failed. retry=2
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.079
+!MESSAGE Loading 'file:/home/decimal/.p2/pool/' failed. retry=1
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.082
+!MESSAGE Loading 'file:/home/decimal/.p2/pool/' failed. retry=2
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.087
+!MESSAGE Loading 'file:/home/decimal/.p2/pool/' failed. retry=1
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2022-01-28 15:22:24.089
+!MESSAGE Loading 'file:/home/decimal/.p2/pool/' failed. retry=2

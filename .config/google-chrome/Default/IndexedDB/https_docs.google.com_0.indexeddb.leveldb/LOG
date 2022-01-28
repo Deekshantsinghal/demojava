@@ -1,0 +1,7 @@
+2022/01/24-18:55:43.976 16f4 Reusing MANIFEST /home/decimal/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/24-18:55:43.977 16f4 Recovering log #3
+2022/01/24-18:55:43.977 16f4 Reusing old log /home/decimal/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2022/01/24-18:55:47.791 16f3 Level-0 table #5: started
+2022/01/24-18:55:47.794 16f3 Level-0 table #5: 8399 bytes OK
+2022/01/24-18:55:47.798 16f3 Delete type=0 #3
+2022/01/24-18:55:47.799 16f3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
